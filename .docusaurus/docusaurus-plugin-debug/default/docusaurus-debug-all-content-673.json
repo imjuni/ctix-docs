@@ -1,0 +1,319 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "loadedVersions": [
+        {
+          "versionName": "current",
+          "label": "Next",
+          "banner": null,
+          "badge": false,
+          "noIndex": false,
+          "className": "docs-version-current",
+          "path": "/ctix/",
+          "tagsPath": "/ctix/tags",
+          "isLast": true,
+          "routePriority": -1,
+          "sidebarFilePath": "/home/imjuni/github/ctix/ctix-docs/sidebars.js",
+          "contentPath": "/home/imjuni/github/ctix/ctix-docs/docs",
+          "contentPathLocalized": "/home/imjuni/github/ctix/ctix-docs/i18n/en/docusaurus-plugin-content-docs/current",
+          "docs": [
+            {
+              "unversionedId": "api/index",
+              "id": "api/index",
+              "title": "ctix",
+              "description": "Functions",
+              "source": "@site/docs/api/index.md",
+              "sourceDirName": "api",
+              "slug": "/api/",
+              "permalink": "/ctix/api/",
+              "draft": false,
+              "editUrl": null,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0.5,
+              "frontMatter": {
+                "id": "index",
+                "title": "ctix",
+                "sidebar_label": "Exports",
+                "sidebar_position": 0.5,
+                "custom_edit_url": null
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "useRootDir workflow",
+                "permalink": "/ctix/extra/use-root-dir"
+              },
+              "next": {
+                "title": "Exports",
+                "permalink": "/ctix/api/modules"
+              }
+            },
+            {
+              "unversionedId": "api/modules",
+              "id": "api/modules",
+              "title": "ctix",
+              "description": "Functions",
+              "source": "@site/docs/api/modules.md",
+              "sourceDirName": "api",
+              "slug": "/api/modules",
+              "permalink": "/ctix/api/modules",
+              "draft": false,
+              "editUrl": null,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 0.5,
+              "frontMatter": {
+                "id": "modules",
+                "title": "ctix",
+                "sidebar_label": "Exports",
+                "sidebar_position": 0.5,
+                "custom_edit_url": null
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Exports",
+                "permalink": "/ctix/api/"
+              },
+              "next": {
+                "title": "Create Command",
+                "permalink": "/ctix/usage/create-command"
+              }
+            },
+            {
+              "unversionedId": "extra/migration-guilde",
+              "id": "extra/migration-guilde",
+              "title": "Migration Guide",
+              "description": "Migration guide from 0.6.x from 1.x",
+              "source": "@site/docs/extra/migration-guilde.md",
+              "sourceDirName": "extra",
+              "slug": "/extra/migration-guilde",
+              "permalink": "/ctix/extra/migration-guilde",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "lang": "en-US",
+                "title": "Migration Guide",
+                "description": "Migration guide from 0.6.x from 1.x"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "ctix",
+                "permalink": "/ctix/"
+              },
+              "next": {
+                "title": "useRootDir workflow",
+                "permalink": "/ctix/extra/use-root-dir"
+              }
+            },
+            {
+              "unversionedId": "extra/use-root-dir",
+              "id": "extra/use-root-dir",
+              "title": "useRootDir workflow",
+              "description": "useRootDir and output directory option workflow",
+              "source": "@site/docs/extra/use-root-dir.md",
+              "sourceDirName": "extra",
+              "slug": "/extra/use-root-dir",
+              "permalink": "/ctix/extra/use-root-dir",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "frontMatter": {
+                "lang": "en-US",
+                "title": "useRootDir workflow",
+                "description": "useRootDir and output directory option workflow"
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Migration Guide",
+                "permalink": "/ctix/extra/migration-guilde"
+              },
+              "next": {
+                "title": "Exports",
+                "permalink": "/ctix/api/"
+              }
+            },
+            {
+              "unversionedId": "intro",
+              "id": "intro",
+              "title": "ctix",
+              "description": "Download Status Github Star Github Issues NPM version License ctix",
+              "source": "@site/docs/intro.mdx",
+              "sourceDirName": ".",
+              "slug": "/",
+              "permalink": "/ctix/",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "sidebar_position": 1,
+                "title": "ctix",
+                "slug": "/"
+              },
+              "sidebar": "tutorialSidebar",
+              "next": {
+                "title": "Migration Guide",
+                "permalink": "/ctix/extra/migration-guilde"
+              }
+            },
+            {
+              "unversionedId": "usage/create-command",
+              "id": "usage/create-command",
+              "title": "Create Command",
+              "description": "ctix detail usage guide",
+              "source": "@site/docs/usage/create-command.md",
+              "sourceDirName": "usage",
+              "slug": "/usage/create-command",
+              "permalink": "/ctix/usage/create-command",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 1,
+              "frontMatter": {
+                "lang": "en-US",
+                "title": "Create Command",
+                "description": "ctix detail usage guide",
+                "sidebar_position": 1
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Exports",
+                "permalink": "/ctix/api/modules"
+              },
+              "next": {
+                "title": "Single Command",
+                "permalink": "/ctix/usage/single-command"
+              }
+            },
+            {
+              "unversionedId": "usage/remove-command",
+              "id": "usage/remove-command",
+              "title": "Remove Command",
+              "description": "ctix detail usage guide",
+              "source": "@site/docs/usage/remove-command.md",
+              "sourceDirName": "usage",
+              "slug": "/usage/remove-command",
+              "permalink": "/ctix/usage/remove-command",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 3,
+              "frontMatter": {
+                "lang": "en-US",
+                "title": "Remove Command",
+                "description": "ctix detail usage guide",
+                "sidebar_position": 3
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Single Command",
+                "permalink": "/ctix/usage/single-command"
+              }
+            },
+            {
+              "unversionedId": "usage/single-command",
+              "id": "usage/single-command",
+              "title": "Single Command",
+              "description": "ctix detail usage guide",
+              "source": "@site/docs/usage/single-command.md",
+              "sourceDirName": "usage",
+              "slug": "/usage/single-command",
+              "permalink": "/ctix/usage/single-command",
+              "draft": false,
+              "tags": [],
+              "version": "current",
+              "sidebarPosition": 2,
+              "frontMatter": {
+                "lang": "en-US",
+                "title": "Single Command",
+                "description": "ctix detail usage guide",
+                "sidebar_position": 2
+              },
+              "sidebar": "tutorialSidebar",
+              "previous": {
+                "title": "Create Command",
+                "permalink": "/ctix/usage/create-command"
+              },
+              "next": {
+                "title": "Remove Command",
+                "permalink": "/ctix/usage/remove-command"
+              }
+            }
+          ],
+          "drafts": [],
+          "sidebars": {
+            "tutorialSidebar": [
+              {
+                "type": "doc",
+                "id": "intro"
+              },
+              {
+                "type": "category",
+                "label": "Extra",
+                "collapsible": true,
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "extra/migration-guilde"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "extra/use-root-dir"
+                  }
+                ]
+              },
+              {
+                "type": "category",
+                "label": "API",
+                "collapsible": true,
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "api/modules",
+                    "label": "Exports"
+                  }
+                ],
+                "link": {
+                  "type": "doc",
+                  "id": "api/index"
+                }
+              },
+              {
+                "type": "category",
+                "label": "Usage",
+                "collapsible": true,
+                "collapsed": false,
+                "items": [
+                  {
+                    "type": "doc",
+                    "id": "usage/create-command"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "usage/single-command"
+                  },
+                  {
+                    "type": "doc",
+                    "id": "usage/remove-command"
+                  }
+                ]
+              }
+            ]
+          }
+        }
+      ]
+    }
+  },
+  "docusaurus-plugin-content-pages": {
+    "default": null
+  },
+  "docusaurus-plugin-debug": {},
+  "docusaurus-theme-classic": {},
+  "docusaurus-plugin-typedoc": {},
+  "docusaurus-theme-mermaid": {},
+  "docusaurus-bootstrap-plugin": {},
+  "docusaurus-mdx-fallback-plugin": {}
+}

@@ -1,0 +1,25 @@
+{
+  "unversionedId": "usage/remove-command",
+  "id": "usage/remove-command",
+  "title": "Remove Command",
+  "description": "ctix detail usage guide",
+  "source": "@site/docs/usage/remove-command.md",
+  "sourceDirName": "usage",
+  "slug": "/usage/remove-command",
+  "permalink": "/ctix/usage/remove-command",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "lang": "en-US",
+    "title": "Remove Command",
+    "description": "ctix detail usage guide",
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Single Command",
+    "permalink": "/ctix/usage/single-command"
+  }
+}

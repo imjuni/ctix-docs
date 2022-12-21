@@ -1,0 +1,16 @@
+{
+  "title": "Tutorial - Basics",
+  "description": "5 minutes to learn the most important Docusaurus concepts.",
+  "slug": "/category/tutorial---basics",
+  "permalink": "/ctix/docs/category/tutorial---basics",
+  "navigation": {
+    "previous": {
+      "title": "ctix - Next generation Create TypeScript Index file",
+      "permalink": "/ctix/docs/"
+    },
+    "next": {
+      "title": "Create a Page",
+      "permalink": "/ctix/docs/tutorial-basics/create-a-page"
+    }
+  }
+}

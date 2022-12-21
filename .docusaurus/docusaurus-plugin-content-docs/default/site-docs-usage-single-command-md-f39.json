@@ -1,0 +1,29 @@
+{
+  "unversionedId": "usage/single-command",
+  "id": "usage/single-command",
+  "title": "Single Command",
+  "description": "ctix detail usage guide",
+  "source": "@site/docs/usage/single-command.md",
+  "sourceDirName": "usage",
+  "slug": "/usage/single-command",
+  "permalink": "/ctix/usage/single-command",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "lang": "en-US",
+    "title": "Single Command",
+    "description": "ctix detail usage guide",
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Command",
+    "permalink": "/ctix/usage/create-command"
+  },
+  "next": {
+    "title": "Remove Command",
+    "permalink": "/ctix/usage/remove-command"
+  }
+}

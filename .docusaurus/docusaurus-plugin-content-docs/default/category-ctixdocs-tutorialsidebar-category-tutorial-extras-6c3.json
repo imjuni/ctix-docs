@@ -1,0 +1,15 @@
+{
+  "title": "Tutorial - Extras",
+  "slug": "/category/tutorial---extras",
+  "permalink": "/ctix/docs/category/tutorial---extras",
+  "navigation": {
+    "previous": {
+      "title": "ctix - Next generation Create TypeScript Index file",
+      "permalink": "/ctix/docs/"
+    },
+    "next": {
+      "title": "Manage Docs Versions",
+      "permalink": "/ctix/docs/tutorial-extras/manage-docs-versions"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "extra/migration-guilde",
+  "id": "extra/migration-guilde",
+  "title": "Migration Guide",
+  "description": "Migration guide from 0.6.x from 1.x",
+  "source": "@site/docs/extra/migration-guilde.md",
+  "sourceDirName": "extra",
+  "slug": "/extra/migration-guilde",
+  "permalink": "/ctix/extra/migration-guilde",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "lang": "en-US",
+    "title": "Migration Guide",
+    "description": "Migration guide from 0.6.x from 1.x"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ctix",
+    "permalink": "/ctix/"
+  },
+  "next": {
+    "title": "useRootDir workflow",
+    "permalink": "/ctix/extra/use-root-dir"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "unversionedId": "api/index",
+  "id": "api/index",
+  "title": "ctix",
+  "description": "Functions",
+  "source": "@site/docs/api/index.md",
+  "sourceDirName": "api",
+  "slug": "/api/",
+  "permalink": "/ctix/api/",
+  "draft": false,
+  "editUrl": null,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 0.5,
+  "frontMatter": {
+    "id": "index",
+    "title": "ctix",
+    "sidebar_label": "Exports",
+    "sidebar_position": 0.5,
+    "custom_edit_url": null
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "useRootDir workflow",
+    "permalink": "/ctix/extra/use-root-dir"
+  },
+  "next": {
+    "title": "Exports",
+    "permalink": "/ctix/api/modules"
+  }
+}

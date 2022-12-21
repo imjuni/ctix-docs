@@ -1,0 +1,29 @@
+{
+  "unversionedId": "usage/create-command",
+  "id": "usage/create-command",
+  "title": "Create Command",
+  "description": "ctix detail usage guide",
+  "source": "@site/docs/usage/create-command.md",
+  "sourceDirName": "usage",
+  "slug": "/usage/create-command",
+  "permalink": "/ctix/usage/create-command",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "lang": "en-US",
+    "title": "Create Command",
+    "description": "ctix detail usage guide",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Exports",
+    "permalink": "/ctix/api/modules"
+  },
+  "next": {
+    "title": "Single Command",
+    "permalink": "/ctix/usage/single-command"
+  }
+}

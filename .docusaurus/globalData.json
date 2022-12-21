@@ -1,0 +1,68 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/ctix/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/ctix/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "api/index",
+              "path": "/ctix/api/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "api/modules",
+              "path": "/ctix/api/modules",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "extra/migration-guilde",
+              "path": "/ctix/extra/migration-guilde",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "extra/use-root-dir",
+              "path": "/ctix/extra/use-root-dir",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/ctix/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "usage/create-command",
+              "path": "/ctix/usage/create-command",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "usage/remove-command",
+              "path": "/ctix/usage/remove-command",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "usage/single-command",
+              "path": "/ctix/usage/single-command",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/ctix/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

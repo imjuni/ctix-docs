@@ -1,0 +1,27 @@
+{
+  "unversionedId": "extra/use-root-dir",
+  "id": "extra/use-root-dir",
+  "title": "useRootDir workflow",
+  "description": "useRootDir and output directory option workflow",
+  "source": "@site/docs/extra/use-root-dir.md",
+  "sourceDirName": "extra",
+  "slug": "/extra/use-root-dir",
+  "permalink": "/ctix/extra/use-root-dir",
+  "draft": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "lang": "en-US",
+    "title": "useRootDir workflow",
+    "description": "useRootDir and output directory option workflow"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Migration Guide",
+    "permalink": "/ctix/extra/migration-guilde"
+  },
+  "next": {
+    "title": "Exports",
+    "permalink": "/ctix/api/"
+  }
+}
