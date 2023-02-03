@@ -145,7 +145,7 @@ const config = {
             items: [
               {
                 label: 'GitHub',
-                href: 'https://github.com/imjuni/erdia',
+                href: 'https://github.com/imjuni/ctix',
               },
             ],
           },
